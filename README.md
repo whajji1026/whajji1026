@@ -1,7 +1,7 @@
 [![MasterHead](https://www.gngroup.org/admin_assets/images/courseBranch/mbabanner.jpg)](https://whajji1026.io)
 <h1 align="center">Hi 👋, I'm Wiem Hajji</h1>
 <h3 align="center">A passionate computer science engineering student from Tunisia</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whajji1026&label=Profile%20views&color=0e75b6&style=flat" alt="whajji1026" /> </p>
 
