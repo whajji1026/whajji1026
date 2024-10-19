@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/whajji1026](https://github.com/whajji1026)
 
-- 💬 Ask me about **python , flask**
+- 💬 Ask me about **python , Machine Learning, Deep Learning**
 
 - 📫 How to reach me **wyeemhajjy26@gmail.com**
 
